@@ -1,4 +1,4 @@
-## Oi! Eu sou o Nícolas
+## Oi! Eu sou o Nícolas 🤙
 <a href="https://github.com/Nicolas-Soares">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nicolas-Soares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nicolas-Soares&layout=compact&langs_count=8&theme=dracula"/>
