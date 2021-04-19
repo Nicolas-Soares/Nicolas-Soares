@@ -12,14 +12,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=nicolas-soares&show_icons=true&include_all_commits=true&theme=shades-of-purple" alt="Nicolas's github stats" />
-</a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-soares&layout=compact&theme=shades-of-purple" />
-</a>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolas-soares&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-soares&layout=compact&langs_count=8&theme=shades-of-purple"/>
+<div>
 
   
   ##
